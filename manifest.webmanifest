@@ -1,2 +1,2 @@
-{"name":"Thunder U12 Girls","short_name":"Thunder","start_url":"./","display":"browser","background_color":"#111111","theme_color":"#c8102e",
- "icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{"name":"Thunder U12 Girls","short_name":"Thunder","id":"/Thunder-12-Girls/","start_url":"/Thunder-12-Girls/","scope":"/Thunder-12-Girls/","display":"standalone","background_color":"#111111","theme_color":"#c8102e",
+ "icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"maskable"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
